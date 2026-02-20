@@ -21,3 +21,7 @@ App.css (styling and format
 - Update Items: Edit the name of an item if you made a mistake.
 
 - Delete Items: Remove items from the list with a single click.
+
+## Photo
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7579094e-3659-4e21-b5fc-16a047211da6" />
+
