@@ -23,6 +23,4 @@ App.css (styling and format
 - Delete Items: Remove items from the list with a single click.
 
 ## Photo
-<img width="875" height="733" alt="mini3" src="https://github.com/user-attachments/assets/2a7ca24e-8b00-44dc-abdf-131f2e14179f" />
-
-
+<img width="875" height="733" alt="mini3" src="https://github.com/user-attachments/assets/07e2b581-2c48-480d-98ac-c810a5cf9476" />
