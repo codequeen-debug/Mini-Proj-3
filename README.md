@@ -27,4 +27,4 @@ App.css (styling and format
 
 
 ## Live
-http://localhost:5174/
+[http://localhost:5174/](https://nimble-gelato-8382aa.netlify.app/)
